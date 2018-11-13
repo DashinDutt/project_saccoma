@@ -6,9 +6,9 @@
 ### Installing this application is easy, just follow these steps:
 ****
 
-![alt text](https://raw.githubusercontent.com/vashisth00/saccoma-master/cover.png)
+![cover_img](https://github.com/vashisth00/saccoma-master/blob/master/cover.png)
 
-![alt text](https://saccoma.cf/screenshot.png)
+![alt text](https://github.com/vashisth00/saccoma-master/blob/master/Screenshot%20(573).png)
 
 1. Import/load saccoma.sql into your mysql database. This should set up the basic structure of the database system.
 
