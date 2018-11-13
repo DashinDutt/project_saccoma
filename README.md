@@ -6,7 +6,7 @@
 ### Installing this application is easy, just follow these steps:
 ****
 
-![alt text](https://saccoma.cf/cover.png)
+![alt text](https://raw.githubusercontent.com/vashisth00/saccoma-master/cover.png)
 
 ![alt text](https://saccoma.cf/screenshot.png)
 
