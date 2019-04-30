@@ -19,10 +19,10 @@
 4. Then loging by typing **username** and **password**:
 
 
-   Administrator        | Special User           | Default User
-   ---------------------| -----------------------| -------------------
-   **Username** : admin | **Username** : special | **Username** : user
-   **Password** : admin | **Password** : special | **Password** : user
+   Administrator               | Special User           | Default User
+   ----------------------------| -----------------------| -------------------
+   **Username** : admin        | **Username** : special | **Username** : user
+   **Password** : saccomarocks | **Password** : special | **Password** : user
 
 6. Good luck!  
 
@@ -33,3 +33,5 @@
 - - - -
 
 Powered by Vashsith Bhushan
+
+project.vashisthbhushan.com
