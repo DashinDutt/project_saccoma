@@ -31,7 +31,12 @@
 ## Team number 18
 
 - - - -
+Vashisth Bhushan
+Uttkarsh Dutt
+Vyom Yadav
+Vasu Bajaj
 
 Powered by Vashsith Bhushan
 
+Hosted on:
 project.vashisthbhushan.com
